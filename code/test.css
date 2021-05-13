@@ -1,0 +1,13 @@
+.static {
+    border: 2px solid black;
+}
+
+.active {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+
+.text-danger {
+    background-color: red;
+}
